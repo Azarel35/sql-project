@@ -1,0 +1,10 @@
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (2,1,3,11,90);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (3,4,7,12,86);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (4,4,9,13,99);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (5,2,4,14,100);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (6,2,1,15,75);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (7,5,10,16,95);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (8,5,6,17,72);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (9,3,5,18,76);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (10,6,2,19,100);
+INSERT INTO `` (`grades_id`,`grades_teacher_id`,`grades_student_id`,`grades_courses_id`,`grades_grade`) VALUES (11,6,8,20,98);

@@ -1,0 +1,10 @@
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (11,3,1,'Finanzas Empresariales');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (12,7,4,'Administracion');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (13,9,4,'Administracion');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (14,4,2,'Probabilidad y Estadistica');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (15,1,2,'Probabilidad y Estadistica');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (16,10,5,'Economia');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (17,6,5,'Economia');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (18,5,3,'Mercadotecnia');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (19,2,6,'Algebra Superior');
+INSERT INTO `` (`courses_id`,`courses_student_id`,`courses_teacher_id`,`courses_name`) VALUES (20,8,6,'Algebra Superior');

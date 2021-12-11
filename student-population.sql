@@ -1,0 +1,10 @@
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (1,'Camila','camila12@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (2,'Octavio','octavio23@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (3,'Jimena','jimena32@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (4,'Regina','regina82@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (5,'Sergio','sergio78@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (6,'Ana','ana26@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (7,'Franco','franco52@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (8,'Viviana','viviana17@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (9,'Rogelio','rogelio36@test.com');
+INSERT INTO `` (`student_id`,`student_name`,`student_email`) VALUES (10,'Sofia','sofia85@test.com');
